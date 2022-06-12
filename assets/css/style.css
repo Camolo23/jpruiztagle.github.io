@@ -1,3 +1,7 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
 .banner{
     height: 20em;
     background-image: url(../img/banner_portafolio.png);
@@ -20,3 +24,9 @@ p{
 
 small_2{
 line-height: 4em;}
+
+.link-repo:hover{
+    color: gold;
+    text-decoration: none;
+    background-color: black;
+}
